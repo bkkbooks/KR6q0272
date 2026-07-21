@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0272_000.yaml, hash: 'sha256:637048144a853cd0040f4661a674d26d60276e3e520f2d58e64c1f3949e68624'}
+  - {seq: 0, filename: KR6q0272_000.yaml, hash: 'sha256:3404df4c0e449668ca0451d0dee04f2c821863dcaf0f0fbb5662b6ba433ca3ca'}
   - {seq: 1, filename: KR6q0272_001.yaml, hash: 'sha256:2c860345bfcc600353b48591c131be0eb36988d44e7e231dffc2a02548b10e4d'}
   - {seq: 2, filename: KR6q0272_002.yaml, hash: 'sha256:d5ec4ee1b80e005172bbc6686726c68229311198d1afd6f740d08373c3765ff6'}
   - {seq: 3, filename: KR6q0272_003.yaml, hash: 'sha256:16a0e36b4e85d9df0a0d3f70302c23c46b088cc47c22484dac37876e19e8ebf5'}
   - {seq: 4, filename: KR6q0272_004.yaml, hash: 'sha256:af5cc2c78e71a271fe1b37ccdb7f642ee5173fc391456c912daa1722261d157b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0272_000.markers.yaml, hash: 'sha256:260e740c398b93452dd0e688c8616c6da918c96e9ac6a4eef5cc066b97cf0bbc'}
+  - {seq: 0, role: markers, filename: assets/KR6q0272_000.markers.yaml, hash: 'sha256:cc85688e9e99ea1d992b3267cac8bcd710c60cb9d70ad0cff3da2d40f105ea71'}
   - {seq: 1, role: markers, filename: assets/KR6q0272_001.markers.yaml, hash: 'sha256:711400bb9ab1146c1548d4e4f8160ee3d1a6b3a427b08897224e7c384fe6ca56'}
   - {seq: 2, role: markers, filename: assets/KR6q0272_002.markers.yaml, hash: 'sha256:1821dbcebd76e58666530198906928efe22741be2fcf4571f7b31c55e81b3628'}
   - {seq: 3, role: markers, filename: assets/KR6q0272_003.markers.yaml, hash: 'sha256:3cc62c8a4fb3ebab14deb7579e46bdc68a41336c19135282f223dc6261cd5922'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0272_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1335-A 善慧大士錄序
@@ -673,7 +673,7 @@ table_of_contents:
   label: No. 1335-E 鐫傅大士錄䟦
   type: mulu
   level: 1
-hash: sha256:78279525c40d0fe86292d3ecf3d548f9dbe59ba3b90661e3b3c39550f9d7dd0b
+hash: sha256:64aaec7c4e78298924878c09ee817458162263fe66aa6756ebb48f66efb9076d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

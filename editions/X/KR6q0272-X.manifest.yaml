@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0272_000-X.yaml, hash: 'sha256:34631f23b5b15fabd919864603ebcdbc1b5fa14cb88595fb950ae343f3afd48d'}
+  - {seq: 0, filename: KR6q0272_000-X.yaml, hash: 'sha256:1076727b782056a87f24db9176229b9f6456bca85349cf63a2283b810c7a9fcc'}
   - {seq: 1, filename: KR6q0272_001-X.yaml, hash: 'sha256:2c7216fabb319e52eb5e489101489ae0dc2430fc26d257fa451ef307d77d2f13'}
   - {seq: 2, filename: KR6q0272_002-X.yaml, hash: 'sha256:8e2bdd5772cfcbac43ba06eea63cc192c033d1eaa56c21e9563feb5790f99f86'}
   - {seq: 3, filename: KR6q0272_003-X.yaml, hash: 'sha256:990fefa78d0b7cb6244bd39fcf2e11b2c7b72450690b2b4030895470b29177d0'}
   - {seq: 4, filename: KR6q0272_004-X.yaml, hash: 'sha256:747d549dcbb6da1c3da25557d4c29cb146449c195b07469ea988cbeaf3adfca5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0272_000-X.markers.yaml, hash: 'sha256:8a1af766d752901e800d2ad7e3f4fc1a8622bc9f886d3aeed661362cc1aa1d30'}
+  - {seq: 0, role: markers, filename: assets/KR6q0272_000-X.markers.yaml, hash: 'sha256:766b63104456d9a34c65cb478a5d68e097f76cf3c6cd9b4cf744757435a4ddc3'}
   - {seq: 1, role: markers, filename: assets/KR6q0272_001-X.markers.yaml, hash: 'sha256:6e9daf9738b86389b3001ebf217d70bbce78b9cc614b73ece6021c1986770852'}
   - {seq: 2, role: markers, filename: assets/KR6q0272_002-X.markers.yaml, hash: 'sha256:af0d195121a0ff57c21fa26e2b8358ea9c8829dd6ce689b115171ac3786bf232'}
   - {seq: 3, role: markers, filename: assets/KR6q0272_003-X.markers.yaml, hash: 'sha256:7ec738b10875f591c503d48193549d270e72e9e39755505b0c7d64d9089a0442'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0272_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1335-A 善慧大士錄序
@@ -671,4 +671,4 @@ table_of_contents:
   label: No. 1335-E 鐫傅大士錄䟦
   type: mulu
   level: 1
-hash: sha256:97377ed68fa9347bfb1598d6bc77241da0192ec3b43e395962ca80a7faba6034
+hash: sha256:7d0990b23cd4908ee6fb02d027c64eee2caa7da340d5a95b907dc34f79f03405
